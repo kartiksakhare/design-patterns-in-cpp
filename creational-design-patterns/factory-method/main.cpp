@@ -1,5 +1,5 @@
-#include<iostream>
-#include<memory>
+#include <iostream>
+#include <memory>
 
 // Abstract Product: Defines the interface for all coffee machines
 class CoffeeMachine {
