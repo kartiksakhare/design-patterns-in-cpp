@@ -164,5 +164,3 @@ else
 ```
 
 ---
-
-This implementation is robust, extensible, and demonstrates best practices for the Factory Method pattern in C++.

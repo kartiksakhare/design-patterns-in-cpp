@@ -182,5 +182,3 @@ coffee->prepare();
 ```
 
 ---
-
-This implementation is robust, extensible, and demonstrates best practices for the Abstract Factory pattern in C++.
