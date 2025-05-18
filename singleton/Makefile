@@ -1,4 +1,4 @@
-.PHONY: run build clean superclean
+.PHONY: run build clean
 
 CXX = g++
 CXXFLAGS = -std=c++11 -Wall -Wextra
